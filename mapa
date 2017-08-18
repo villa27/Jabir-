@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	    <title> Distribución </title>
+		<h1>Distribución del Jabirú </h1>	
+	    <meta charset="UTF8"> <!--Me permite realizar comentarios -->
+		<link rel="stylesheet" href="css/estilos.css">    
+	</head>
+<iframe src="https://www.google.com/maps/d/embed?mid=1u-N27JG_Mz33gMwqKU65FM5lOlU" width="1000" height="680"></iframe>
+</html>
+
+
