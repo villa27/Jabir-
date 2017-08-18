@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	    <title> Imagenes </title>
+	    <meta charset="UTF8"> <!--Me permite realizar comentarios -->
+		<link rel="stylesheet" href="css/estilos.css">    
+	</head>
+	<h1>Fotografías del Jabirú </h1>
+<img src= "http://www.oiseaux-birds.com/ciconiiformes/ciconiides/jabiru-amerique/jabiru-amer-profil-pw.jpg" width = "300" height= "300" alt ="Foto 1" / >
+
+<img src= "https://c1.staticflickr.com/9/8173/8032573569_cbff4cfc4a_b.jpg" width = "300" height= "300" alt ="Foto 2" / >
+
+<img src= "http://www.jacques-binggeli.ch/pages_photos/pantanal/oiseau0.jpg" width = "300" height= "300" alt ="Foto 3" / >
+</html>
+
+
