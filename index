@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	    <title> Jabiru mycteria </title>
+	    <meta charset="UTF8"> <!--Me permite realizar comentarios -->
+		<link rel="stylesheet" href="css/estilos.css">   
+	</head>
+	<body>
+	<nav>
+     Inicio
+      <a href="Mapa.html">Distribución</a> |
+      <a href="Imagen.html">Imágenes</a> |
+	</nav>
+
+	    <h1>Jabiru mycteria </h1>		
+		<img src= "http://wikifaunia.com/images/thumb/2/22/Jabiru.jpg/335px-Jabiru.jpg	" width = "231" height= "208" alt ="Foto 3" / >
+		<h2> Información general  </h2>
+		<p>El jabirú, tuyuyu o jabirú americano2​ (Jabiru mycteria) es una especie de ave ciconiforme de la familia Ciconiidae; 
+		es la mayor cigüeña del Nuevo Mundo. Con una altura de 120-140 cm y una envergadura (alas desplegadas) de 3 metros, es una 
+		ave inconfundible de los humedales americanos desde Yucatán hasta la pampa argentina, siendo abundante en zonas como los llanos 
+		venezolanos o el pantanal. Se parece bastante a su pariente, el marabú africano, pero a diferencia de este no come cadáveres 
+		aunque sea carnívoro, prefiere pescar dentro del agua. No es un ave sociable. Se le encuentra en solitario; las parejas construyen 
+		nidos voluminosos sobre grandes árboles, con puestas de 2 a 4 huevos. Es el ave voladora más alta de Centro y Sudamérica, y la segunda 
+		del continente en envergadura superada por el cóndor andino (Vultur gryphus).
+		En Venezuela se le conoce como garzón soldado y en Costa Rica es conocido como Galán sin ventura.
+		<h3> Etimología </h3>
+		<p> Su nombre proviene del idioma guaraní y significa “cuello hinchado”, en referencia a su capacidad de inflar a voluntad los sacos aéreos subcutáneos ubicados en el cuello. En la zona norte de Argentina y en Paraguay recibe varios nombres populares como "Tuyuyú coral" o "Tuyuyú cuartelero".
+		<h4>Características </h4>
+		<p> Es un ave muda, no tiene voces ni cantos y se comunica mediante golpeteos del pico. La pareja vive unida de por vida. Año tras año a fines del otoño, vuelven a su enorme nido ubicado en lo más alto de un árbol o palmera para criar tres o cuatro pichones, los cuales incubarán por turnos la hembra y el macho. Vive cerca de lagunas y ríos, se alimenta de gran cantidad de peces, moluscos y anfibios, ocasionalmente también come reptiles y pequeños mamíferos. Construye su nido en la cima de los árboles más altos.
+		</body>
+
+</html>
