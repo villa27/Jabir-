@@ -1,0 +1,29 @@
+p {
+    color:#22B341
+;
+    font-size:150%;
+}
+
+h1 {
+    color:#25C1AE; font-size:250%;
+}            
+
+h2 {
+    color:#FADC05; font-size:200%;
+}            
+
+h3 {
+    color:#FADC05; font-size:200%;
+}            
+
+h4 {
+    color:#FADC05; font-size:200%;
+}            
+
+
+body {
+    background-color:#787574;
+    color:black;
+    margin:0 4px 0 0;
+    border:12px solid;
+}           
